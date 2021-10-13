@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACV,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,KAAK,CAKU,AAP3B,AAGI,aAHS,CAGT,eAAe,AAAC,CACZ,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,KAAK,CACjB,UAAU,CAAE,EAAE,CAAG",
+    "sources": [
+        "MainPage.sass"
+    ],
+    "names": [],
+    "file": "MainPage.css"
+}
